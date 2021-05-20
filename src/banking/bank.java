@@ -2,5 +2,5 @@ package banking;
 
 public class bank {
 
-	 //this is my bank
+	 //we provide bank loans
 }
